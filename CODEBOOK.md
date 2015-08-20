@@ -10,6 +10,8 @@ The column activities contains one of the following values: walking, walkingupst
 5 was converted to standing
 6 was converted to laying
 
+The values in all other columns are the mean of each variable grouped by the subjectid and activities columns.
+
 The following transformations were applied to the column headings:
 acc was changed to acceleration
 mag was changed to magnitude
